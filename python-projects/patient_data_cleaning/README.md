@@ -8,4 +8,4 @@ Description:
 - Steps: read data, handle missing values, standardise categorical fields, create summary stats, export cleaned CSV.
 
 How to run:
-python patient_data_cleaning.py
+python patient_data_cleaning.ipynb
