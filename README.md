@@ -1,5 +1,7 @@
 # NHS-ANALYSIS
-Automation scripts, patient data cleaning and Survey Analysis using Python
+Automation scripts, patient data cleaning and Survey Analysis using Python 
+(INSIDE THE PYTHON PROJECT FOOLDER ITS ALMOST THE SAME CODE BUT WITH SYNTHETIC DATA GENERATION)
+ALL CSV FILES ARE SELF GENERATED FOR THIS PERSONAL PROJECT
 # 📊 NHS Data Analytics
 
 A collection of healthcare data analysis projects demonstrating skills
