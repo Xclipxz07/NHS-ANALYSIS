@@ -1,2 +1,2 @@
 # Automation scripts
-See excel_auto_clean.py
+See excel_auto_clean.ipynb
