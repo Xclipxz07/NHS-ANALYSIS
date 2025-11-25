@@ -8,4 +8,4 @@ Description:
 - Produces a scatter plot and summary statistics.
 
 How to run:
-python nhs_survey_analysis.py
+python nhs_survey_analysis.ipynb
